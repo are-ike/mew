@@ -1,0 +1,9 @@
+node_modules
+.expo
+*.json
+*.js
+*.md
+*.d.ts
+
+# macOS
+.DS_Store
